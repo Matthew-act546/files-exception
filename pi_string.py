@@ -7,7 +7,7 @@
 #     print(pi_string)
 #     print(len(pi_string))
 
-filename = "files_exception/pi_million_digits.txt"
+filename = "pi_million_digits.txt"
 with open(filename) as file:
     line = file.readlines()
 

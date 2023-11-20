@@ -1,4 +1,6 @@
 Hello, World! 
 I'm matthew david fernandez
 I will become a successful programmer 
-I love my crush but im shy
+
+I will become a successful programmer 
+**************************************************
