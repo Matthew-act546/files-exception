@@ -1,4 +1,4 @@
-files = 'files_exception/pi.txt'
+files = 'pi.txt'
 with open(files) as pi:
     for line in pi:
         print(line.rstrip())
